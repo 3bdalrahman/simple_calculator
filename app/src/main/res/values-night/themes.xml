@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Calculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <style name="window_background">
+        <item name="android:background">@color/window_background_dark</item>
+    </style>
+    <style name="io_background">
+        <item name="android:background">@color/io_background_dark</item>
+    </style>
+    <style name="numberColor">
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
